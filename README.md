@@ -1,2 +1,4 @@
-# pacmanexercise
-create pacman animation bounded by the window of the browser. when it hits the edges of browser, it changes direction.
+# Pacman Exercise
+## Using JavaScript to animate an image
+
+Create pacman animation bounded by the window of the browser. When it hits the edges of browser, it changes direction.
